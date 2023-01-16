@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { NavLink, Link } from "react-router-dom";
-import { FaGithub, FaInstagram } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import { AiFillLinkedin, AiFillYoutube, AiFillFacebook } from "react-icons/ai";
 // Components
 
