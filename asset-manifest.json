@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/css/main.2a7e41cd.css",
-    "main.js": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/js/main.23d963e2.js",
-    "static/js/787.b7af92ad.chunk.js": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/js/787.b7af92ad.chunk.js",
-    "static/media/slick.svg": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/index.html",
-    "main.2a7e41cd.css.map": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/css/main.2a7e41cd.css.map",
-    "main.23d963e2.js.map": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/js/main.23d963e2.js.map",
-    "787.b7af92ad.chunk.js.map": "/portofolio-mahmoud-Ahmed.github.io/mahmoud-ahmed/static/js/787.b7af92ad.chunk.js.map"
+    "main.css": "/mahmoud-Ahmed.github.io/portofolio/static/css/main.2d644ba0.css",
+    "main.js": "/mahmoud-Ahmed.github.io/portofolio/static/js/main.85f2dabf.js",
+    "static/js/787.b7af92ad.chunk.js": "/mahmoud-Ahmed.github.io/portofolio/static/js/787.b7af92ad.chunk.js",
+    "static/media/slick.svg": "/mahmoud-Ahmed.github.io/portofolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/mahmoud-Ahmed.github.io/portofolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/mahmoud-Ahmed.github.io/portofolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/mahmoud-Ahmed.github.io/portofolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/mahmoud-Ahmed.github.io/portofolio/index.html",
+    "main.2d644ba0.css.map": "/mahmoud-Ahmed.github.io/portofolio/static/css/main.2d644ba0.css.map",
+    "main.85f2dabf.js.map": "/mahmoud-Ahmed.github.io/portofolio/static/js/main.85f2dabf.js.map",
+    "787.b7af92ad.chunk.js.map": "/mahmoud-Ahmed.github.io/portofolio/static/js/787.b7af92ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a7e41cd.css",
-    "static/js/main.23d963e2.js"
+    "static/css/main.2d644ba0.css",
+    "static/js/main.85f2dabf.js"
   ]
 }
