@@ -1,0 +1,94 @@
+/*------------------------------------
+    Hero
+------------------------------------*/
+.section-hero {
+  width: 100%;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.section-hero-1 .el-heading .el-icon {
+  margin-bottom: 20px;
+}
+
+.section-hero-2 .el-heading {
+  float: right;
+}
+.section-hero-2 .el-heading .el-icon {
+  margin-bottom: 20px;
+}
+
+.section-hero-4 .el-slider {
+  width: 100%;
+  height: 100vh;
+}
+.section-hero-4 .el-slider .slide .image {
+  height: 100vh;
+}
+.section-hero-4 .el-slider .slick-dots {
+  z-index: 6;
+  bottom: 60px !important;
+}
+.section-hero-4 .el-particles {
+  opacity: 0.3;
+}
+.section-hero-4 .display-center {
+  z-index: 3;
+}
+
+.section-hero-5 .el-icon .icon {
+  position: relative;
+  margin-left: 3px;
+  -webkit-animation: MoveUpDown 1s linear infinite;
+          animation: MoveUpDown 1s linear infinite;
+}
+.section-hero-5 .el-heading {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+.section-hero-5 .el-heading h1 {
+  font-size: 42px;
+}
+
+.section-hero-6:before {
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  z-index: 15;
+  opacity: 0.75;
+  content: "";
+  position: fixed;
+}
+.section-hero-6 .display-center {
+  z-index: 18;
+}
+
+@media (max-width: 992px) {
+  .section-hero-4 .el-particles {
+    display: none !important;
+  }
+}
+@media (max-width: 768px) {
+  .section-hero-2 {
+    background-position: center left;
+  }
+  .section-hero-2 .el-heading {
+    float: inherit !important;
+  }
+  .section-hero-2 .display-center {
+    z-index: 3;
+  }
+  .section-hero-2:after {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    opacity: 0.45;
+    position: absolute;
+  }
+  .section-hero-5 .el-heading h1 {
+    font-size: 24px !important;
+  }
+}/*# sourceMappingURL=hero.css.map */

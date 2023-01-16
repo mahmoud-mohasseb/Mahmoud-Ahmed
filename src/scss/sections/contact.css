@@ -1,0 +1,14 @@
+/*------------------------------------
+    Section: Contact
+------------------------------------*/
+.section-contact-1 .contact-image {
+  height: 100%;
+  position: relative;
+}
+.section-contact-1 .contact-image .image {
+  top: 0;
+  left: 15px;
+  right: 15px;
+  height: 100%;
+  position: absolute;
+}/*# sourceMappingURL=contact.css.map */

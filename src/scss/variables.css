@@ -1,0 +1,22 @@
+/*------------------------------------
+    Variables
+------------------------------------*/
+:root {
+  --gray: #eee;
+  --white: #fff;
+  --black: #000;
+  --base-0: #fff;
+  --base-1: #151812;
+  --base-2: "";
+  --base-3: "";
+  --primary: orange;
+  --primary-1: #ff8800;
+  --secondary: "";
+  --secondary-1: "";
+  --color-1: #70b6fe;
+  --color-2: #c670fe;
+  --color-3: #fec070;
+  --color-4: #dc3545;
+  --color-5: #28a745;
+  --color-6: darkblue;
+}/*# sourceMappingURL=variables.css.map */

@@ -1,0 +1,31 @@
+@import "./mixins.scss";
+@import "./variables.scss";
+@import "./typography.scss";
+@import "./spacing.scss";
+@import "./animations.scss";
+@import "./reset.scss";
+@import "./helpers.scss";
+
+// sections
+@import "./sections/services.scss";
+@import "./sections/hero.scss";
+@import "./sections/about.scss";
+@import "./sections/contact.scss";
+@import "./sections/quotes.scss";
+@import "./sections/portfolio.scss";
+@import "./sections/posts.scss";
+@import "./sections/common.scss";
+
+// // other
+// @import "./other/theme-preview.scss";
+// @import "./other/demo-options.scss";
+
+// elements
+@import "./elements/common.scss";
+@import "./elements/button.scss";
+@import "./elements/form.scss";
+// structure
+@import "./structure/container.scss";
+@import "./structure/header.scss";
+@import "./structure/sidenav.scss";
+@import "./structure/wrapper.scss";
