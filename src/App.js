@@ -18,7 +18,7 @@ import { FloatingWhatsApp } from "react-floating-whatsapp";
 
 const routes = [
   {
-    path: "/intro",
+    path: "/",
     component: <Intro />,
   },
   {
@@ -71,7 +71,7 @@ const App = () => {
       <Helmet title="🇪🇬🇷🇴 Mahmoud" />
       <Header />
       <Switch>
-        <Route exact path="/">
+        <Route path="/" exact>
           <Redirect to="/intro" exact />
         </Route>
         {routes.map((item, index) => (
