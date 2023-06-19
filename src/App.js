@@ -84,7 +84,7 @@ const App = () => {
         <FloatingWhatsApp
           darkMode={false}
           phoneNumber="+40752 331 545"
-          avatar="https://media.licdn.com/dms/image/D4D03AQE56-Jny2_11Q/profile-displayphoto-shrink_800_800/0/1669369598001?e=1678924800&v=beta&t=p6GS09OCPZEbrr_KQzRtpBXb8OJzcQsxBy_zRoYJJKA"
+          avatar="https://scontent.fcnd1-1.fna.fbcdn.net/v/t1.6435-9/69455862_343263659961158_572450369540456448_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=07Dx6bhshGoAX-ZPOAb&_nc_ht=scontent.fcnd1-1.fna&oh=00_AfAGzDX5T380VO2KYh4QHuqwbLkpEQGMHmY3MWtEXQZNtg&oe=64B7F6E1"
           accountName="Mahmoud Ahmed"
           allowEsc
           allowClickAway
